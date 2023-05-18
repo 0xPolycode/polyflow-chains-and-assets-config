@@ -1,0 +1,14 @@
+{
+    "chains": [
+        {
+            "chainId": 1,
+            "rpcUrl": "https://mainnet.infura.io/v3/{rpcKey}",
+            "name": "Ethereum Mainnet",
+            "decimals": 18,
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419"
+            }
+        }
+    ]
+}
