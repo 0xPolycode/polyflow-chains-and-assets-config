@@ -45,9 +45,11 @@ Example:
 {
     "erc20Tokens": [
         {
-            "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-            "chainIds": [
-                1
+            "deployments": [
+                {
+                    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+                    "chainId": 1
+                }
             ],
             "name": "Uniswap",
             "usdPriceFeed": {
@@ -59,8 +61,12 @@ Example:
     ],
     "erc721Tokens": [
         {
-            "address": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
-            "chainId": 1,
+            "deployments": [
+                {
+                    "address": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+                    "chainId": 1
+                }
+            ],
             "name": "Bored Ape Yacht Club",
             "ethPriceFeed": {
                 "chainId": 1,
@@ -73,9 +79,9 @@ Example:
 
 Fields:
 
-`address` - Contract address of the ERC20/ERC721 token.  
-`chainIds` - **Only for ERC20 tokens.** List of chain IDs on which this ERC20 token is deployed.  
-`chainId` - **Only for ERC721 tokens.** Chain ID on which this ERC721 token is deployed.  
+`deployments` - List of token deployments.  
+`deployments.address` - Contract address of the ERC20/ERC721 token.  
+`deployments.chainId` - Chain ID on which this ERC20/ERC721 token is deployed.  
 `name` - Name of the ERC20/ERC721 token.  
 `usdPriceFeed` - **Only for ERC20 tokens.** Definition of [ChainLink price feed contract](https://docs.chain.link/data-feeds/price-feeds/addresses).
 This price feed is expected to be in USD.  
