@@ -27,6 +27,20 @@
                 "contractAddress": "0x2c1d072e956AFFC0D435Cb7AC38EF18d24d9127c"
             },
             "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                    "chainId": 1
+                }
+            ],
+            "name": "USDC",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x789190466E21a8b78b8027866CBBDc151542A26C"
+            },
+            "decimals": 18
         }
     ],
     "erc721Tokens": []
