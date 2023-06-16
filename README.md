@@ -14,6 +14,7 @@ Example:
             "chainId": 1,
             "rpcUrl": "https://mainnet.infura.io/v3/{rpcKey}",
             "name": "Ethereum Mainnet",
+            "symbol": "ETH",
             "decimals": 18,
             "usdPriceFeed": {
                 "chainId": 1,
@@ -30,6 +31,7 @@ Fields:
 `rpcUrl` - RPC URL of the chain, may contain `{rpcKey}` placeholder which will be replaced with
 RPC credentials specified via Polyflow backend properties.  
 `name` - Name of the chain.  
+`symbol` - Symbol of the chain native asset.  
 `decimals` - Number of decimals of the chain-native asset.  
 `usdPriceFeed` - Definition of [ChainLink price feed contract](https://docs.chain.link/data-feeds/price-feeds/addresses).
 This price feed is expected to be in USD.  
