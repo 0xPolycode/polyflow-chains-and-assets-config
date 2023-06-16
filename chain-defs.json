@@ -3,7 +3,8 @@
         {
             "chainId": 1,
             "rpcUrl": "https://mainnet.infura.io/v3/{rpcKey}",
-            "name": "ETH",
+            "name": "Ethereum Mainnet",
+            "symbol": "ETH",
             "decimals": 18,
             "usdPriceFeed": {
                 "chainId": 1,
