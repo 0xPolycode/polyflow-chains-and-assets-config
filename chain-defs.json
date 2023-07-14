@@ -10,6 +10,83 @@
                 "chainId": 1,
                 "contractAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419"
             }
+        },
+        {
+            "chainId": 42170,
+            "rpcUrl": "https://nova.arbitrum.io/rpc",
+            "name": "Arbitrum Mainnet",
+            "symbol": "ARB",
+            "decimals": 8,
+            "usdPriceFeed": {
+                "chainId": 42170,
+                "contractAddress": "0xb2A824043730FE05F3DA2efaFa1CBbe83fa548D6"
+            }
+        },
+        {
+            "chainId": 43114,
+            "rpcUrl": "https://avalanche-c-chain.publicnode.com",
+            "name": "Avalanche Mainnet",
+            "symbol": "AVAX",
+            "decimals": 8,
+            "usdPriceFeed": {
+                "chainId": 43114,
+                "contractAddress": "0x0A77230d17318075983913bC2145DB16C7366156"
+            }
+        },
+        {
+            "chainId": 56,
+            "rpcUrl": "https://bsc.publicnode.com",
+            "name": "BNB Chain Mainnet",
+            "symbol": "BNB",
+            "decimals": 8,
+            "usdPriceFeed": {
+                "chainId": 56,
+                "contractAddress": "0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE"
+            }
+        },
+        {
+            "chainId": 4002,
+            "rpcUrl": "https://rpc.testnet.fantom.network/",
+            "name": "Fantom Mainnet",
+            "symbol": "FTM",
+            "decimals": 8,
+            "usdPriceFeed": {
+                "chainId": 4002,
+                "contractAddress": "0xf4766552D15AE4d256Ad41B6cf2933482B0680dc"
+            }
+        },
+        {
+            "chainId": 1284,
+            "rpcUrl": "https://moonbeam.public.blastapi.io",
+            "name": "Moonbeam Mainnet",
+            "symbol": "GLMR",
+            "decimals": 8,
+            "usdPriceFeed": {
+                "chainId": 1284,
+                "contractAddress": "0x4497B606be93e773bbA5eaCFCb2ac5E2214220Eb"
+            }
+        },
+        {
+            "chainId": 1285,
+            "rpcUrl": "https://rpc.api.moonriver.moonbeam.network",
+            "name": "Moonriver Mainnet",
+            "symbol": "MOVR",
+            "decimals": 8,
+            "usdPriceFeed": {
+                "chainId": 1285,
+                "contractAddress": "0x3f8BFbDc1e79777511c00Ad8591cef888C2113C1"
+            }
+        },
+        {
+            "chainId": 137,
+            "rpcUrl": "https://polygon.llamarpc.com",
+            "name": "Polygon Mainnet",
+            "symbol": "MATIC",
+            "decimals": 8,
+            "usdPriceFeed": {
+                "chainId": 137,
+                "contractAddress": "0xAB594600376Ec9fD91F8e885dADF0CE036862dE0"
+            }
         }
     ]
 }
