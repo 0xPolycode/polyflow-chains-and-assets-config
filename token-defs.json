@@ -24,7 +24,7 @@
                 "chainId": 1,
                 "contractAddress": "0xc929ad75B72593967DE83E7F7Cda0493458261D9"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -54,7 +54,7 @@
                 "chainId": 1,
                 "contractAddress": "0x547a514d5e3769680Ce22B2361c10Ea13619e8a9"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -72,7 +72,7 @@
                 "chainId": 42170,
                 "contractAddress": "0xb2A824043730FE05F3DA2efaFa1CBbe83fa548D6"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -86,7 +86,7 @@
                 "chainId": 1,
                 "contractAddress": "0xAE48c91dF1fE419994FFDa27da09D5aC69c30f55"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -120,7 +120,7 @@
                 "chainId": 1,
                 "contractAddress": "0x7eed379bf00005CfeD29feD4009669dE9Bcc21ce"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -146,7 +146,7 @@
                 "chainId": 1,
                 "contractAddress": "0xD10aBbC76679a20055E167BB80A24ac851b37056"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -168,14 +168,10 @@
                 "chainId": 1,
                 "contractAddress": "0xDC4BDB458C6361093069Ca2aD30D74cc152EdC75"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
-                {
-                    "address": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
-                    "chainId": 43114
-                },
                 {
                     "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
                     "chainId": 56
@@ -198,7 +194,7 @@
                 "chainId": 1,
                 "contractAddress": "0xFF3EEb22B5E3dE6e705b44749C2559d704923FD7"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -220,7 +216,7 @@
                 "chainId": 1,
                 "contractAddress": "0x66a47b7206130e6FF64854EF0E1EDfa237E65339"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -242,7 +238,7 @@
                 "chainId": 1,
                 "contractAddress": "0xdF2917806E30300537aEB49A7663062F4d1F2b5F"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -312,7 +308,7 @@
                 "chainId": 1,
                 "contractAddress": "0x1E6cF0D433de4FE882A437ABC654F58E1e78548c"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -326,7 +322,7 @@
                 "chainId": 56,
                 "contractAddress": "0x43d80f616DAf0b0B42a928EeD32147dC59027D41"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -360,7 +356,7 @@
                 "chainId": 1,
                 "contractAddress": "0x833D8Eb16D306ed1FbB5D7A2E019e106B960965A"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -378,7 +374,7 @@
                 "chainId": 1,
                 "contractAddress": "0xEb0adf5C06861d6c07174288ce4D0a8128164003"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -408,7 +404,7 @@
                 "chainId": 1,
                 "contractAddress": "0xdbd020CAeF83eFd542f4De03e3cF0C28A4428bd5"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -456,7 +452,7 @@
                 "chainId": 1,
                 "contractAddress": "0xCd627aA160A6fA45Eb793D19Ef54f5062F20f33f"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -498,7 +494,7 @@
                 "chainId": 1,
                 "contractAddress": "0xAed0c38402a5d19df6E4c03F4E2DceD6e29c1ee9"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -526,7 +522,7 @@
                 "chainId": 1,
                 "contractAddress": "0x1C07AFb8E2B827c5A4739C6d59Ae3A5035f28734"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -540,7 +536,7 @@
                 "chainId": 1,
                 "contractAddress": "0x23905C55dC11D609D5d11Dc604905779545De9a7"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -554,7 +550,7 @@
                 "chainId": 1,
                 "contractAddress": "0x5C00128d4d1c2F4f652C267d7bcdD7aC99C16E16"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -568,7 +564,7 @@
                 "chainId": 1,
                 "contractAddress": "0x10a43289895eAff840E8d45995BBa89f9115ECEe"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -590,7 +586,7 @@
                 "chainId": 1,
                 "contractAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -604,7 +600,7 @@
                 "chainId": 137,
                 "contractAddress": "0xDf3f72Be10d194b58B1BB56f2c4183e661cB2114"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -618,16 +614,12 @@
                 "chainId": 56,
                 "contractAddress": "0xE5dbFD9003bFf9dF5feB2f4F445Ca00fb121fb83"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
                 {
                     "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
-                    "chainId": 1
-                },
-                {
-                    "address": "0x031b41e504677879370e9dbcf937283a8691fa7f",
                     "chainId": 1
                 }
             ],
@@ -636,7 +628,7 @@
                 "chainId": 56,
                 "contractAddress": "0x657e700c66C48c135c4A29c4292908DbdA7aa280"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -696,7 +688,7 @@
                 "chainId": 1,
                 "contractAddress": "0x86cF33a451dE9dc61a2862FD94FF4ad4Bd65A5d2"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -718,7 +710,7 @@
                 "chainId": 1,
                 "contractAddress": "0x96c45535d235148Dc3ABA1E48A6E3cFB3510f4E2"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -752,7 +744,7 @@
                 "chainId": 1,
                 "contractAddress": "0xf8fF43E991A81e6eC886a3D281A2C6cC19aE70Fc"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -774,7 +766,7 @@
                 "chainId": 56,
                 "contractAddress": "0x12bf0C3f7D5aca9E711930d704dA2774358d9210"
             },
-            "decimals": 8
+            "decimals": 6
         },
         {
             "deployments": [
@@ -830,7 +822,7 @@
                 "chainId": 1,
                 "contractAddress": "0x2c1d072e956AFFC0D435Cb7AC38EF18d24d9127c"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -862,7 +854,7 @@
                 "chainId": 1,
                 "contractAddress": "0x6AF09DF7563C363B5763b9102712EbeD3b9e859B"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -880,7 +872,7 @@
                 "chainId": 1285,
                 "contractAddress": "0x3f8BFbDc1e79777511c00Ad8591cef888C2113C1"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -902,7 +894,7 @@
                 "chainId": 1,
                 "contractAddress": "0x56a4857acbcfe3a66965c251628B1c9f1c408C19"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -932,7 +924,7 @@
                 "chainId": 1,
                 "contractAddress": "0x7bAC85A8a13A4BcD8abb3eB7d6b4d632c5a57676"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -962,7 +954,7 @@
                 "chainId": 1,
                 "contractAddress": "0xec1D1B3b0443256cc3860e24a46F108e699484Aa"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -980,7 +972,7 @@
                 "chainId": 1,
                 "contractAddress": "0xC12A6d1D827e23318266Ef16Ba6F397F2F91dA9b"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1030,7 +1022,7 @@
                 "chainId": 1,
                 "contractAddress": "0xcDa3708C5c2907FCca52BB3f9d3e4c2028b89319"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1044,7 +1036,7 @@
                 "chainId": 1,
                 "contractAddress": "0x759bBC1be8F90eE6457C44abc7d443842a976d02"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1076,7 +1068,7 @@
                 "chainId": 56,
                 "contractAddress": "0xF4C5e535756D11994fCBB12Ba8adD0192D9b88be"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1098,7 +1090,7 @@
                 "chainId": 1,
                 "contractAddress": "0x35E3f7E558C04cE7eEE1629258EcbbA03B36Ec56"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1154,7 +1146,7 @@
                 "chainId": 1,
                 "contractAddress": "0xDC3EA94CD0AC27d9A86C180091e7f78C683d3699"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1168,7 +1160,7 @@
                 "chainId": 1,
                 "contractAddress": "0x4ffC43a60e009B551865A93d232E33Fce9f01507"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1206,7 +1198,7 @@
                 "chainId": 1,
                 "contractAddress": "0xCc70F09A6CC17553b2E31954cD36E4A2d89501f7"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1220,7 +1212,7 @@
                 "chainId": 1,
                 "contractAddress": "0x3d44925a8E9F9DFd90390E58e92Ec16c996A331b"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1254,7 +1246,7 @@
                 "chainId": 1,
                 "contractAddress": "0xec746eCF986E2927Abd291a2A1716c940100f8Ba"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1284,7 +1276,7 @@
                 "chainId": 1,
                 "contractAddress": "0x553303d460EE0afB37EdFf9bE42922D8FF63220e"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1326,7 +1318,7 @@
                 "chainId": 1,
                 "contractAddress": "0x8fFfFfd4AfB6115b954Bd326cbe7B4BA576818f6"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1348,7 +1340,7 @@
                 "chainId": 1,
                 "contractAddress": "0x0ed39A19D2a68b722408d84e4d970827f61E6c0A"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1366,7 +1358,7 @@
                 "chainId": 1,
                 "contractAddress": "0x09023c0DA49Aaf8fc3fA3ADF34C6A7016D38D5e3"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1408,7 +1400,7 @@
                 "chainId": 1,
                 "contractAddress": "0x3E7d1eAB13ad0104d2750B8863b489D65364e32D"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1422,7 +1414,7 @@
                 "chainId": 1,
                 "contractAddress": "0xCed2660c6Dd1Ffd856A5A82C67f3482d88C50b12"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1456,7 +1448,7 @@
                 "chainId": 56,
                 "contractAddress": "0x02Bfe714e78E2Ad1bb1C2beE93eC8dc5423B66d4"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1484,7 +1476,7 @@
                 "chainId": 137,
                 "contractAddress": "0x38611b09F8f2D520c14eA973765C225Bf57B9Eac"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1498,7 +1490,7 @@
                 "chainId": 56,
                 "contractAddress": "0x3e3aA4FC329529C8Ab921c810850626021dbA7e6"
             },
-            "decimals": 8
+            "decimals": 12
         },
         {
             "deployments": [
@@ -1536,7 +1528,7 @@
                 "chainId": 1,
                 "contractAddress": "0xA027702dbb89fbd58938e4324ac03B58d812b0E1"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1554,7 +1546,7 @@
                 "chainId": 1,
                 "contractAddress": "0x2885d15b8Af22648b98B122b22FDF4D2a56c6023"
             },
-            "decimals": 8
+            "decimals": 18
         },
         {
             "deployments": [
@@ -1568,7 +1560,7 @@
                 "chainId": 137,
                 "contractAddress": "0xBC08c639e579a391C4228F20d0C29d0690092DF0"
             },
-            "decimals": 8
+            "decimals": 18
         }
     ],
     "erc721Tokens": [
