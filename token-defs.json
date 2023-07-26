@@ -3,8 +3,1272 @@
         {
             "deployments": [
                 {
+                    "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+                    "chainId": 137
+                }
+            ],
+            "name": "1Inch",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xc929ad75B72593967DE83E7F7Cda0493458261D9"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+                    "chainId": 137
+                }
+            ],
+            "name": "Aave",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x547a514d5e3769680Ce22B2361c10Ea13619e8a9"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+                    "chainId": 42170
+                }
+            ],
+            "name": "Arbitrum",
+            "usdPriceFeed": {
+                "chainId": 42170,
+                "contractAddress": "0xb2A824043730FE05F3DA2efaFa1CBbe83fa548D6"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+                    "chainId": 56
+                }
+            ],
+            "name": "Cardano",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xAE48c91dF1fE419994FFDa27da09D5aC69c30f55"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x0615Dbba33Fe61a31c7eD131BDA6655Ed76748B1",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0xFd301Ca82D007880e678bB750a771550C5104Ff2",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
+                    "chainId": 137
+                }
+            ],
+            "name": "Ankr",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x7eed379bf00005CfeD29feD4009669dE9Bcc21ce"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x0802d66f029c46E042b74d543fC43B6705ccb4ba",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0xC762043E211571eB34f1ef377e5e8e76914962f9",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x2d72A97a31Dc920dB03330780d30074626e39C8A",
+                    "chainId": 4002
+                }
+            ],
+            "name": "APECoin",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xD10aBbC76679a20055E167BB80A24ac851b37056"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x8D983cb9388EaC77af0474fA441C4815500Cb7BB",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+                    "chainId": 137
+                }
+            ],
+            "name": "Cosmos",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xDC4BDB458C6361093069Ca2aD30D74cc152EdC75"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x4792c1ecb969b036eb51330c63bd27899a13d84e",
+                    "chainId": 1284
+                },
+                {
+                    "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+                    "chainId": 137
+                }
+            ],
+            "name": "Avalanche",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xFF3EEb22B5E3dE6e705b44749C2559d704923FD7"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x753fbc5800a8C8e3Fb6DC6415810d627A387Dfc9",
+                    "chainId": 4002
+                }
+            ],
+            "name": "Badger DAO",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x66a47b7206130e6FF64854EF0E1EDfa237E65339"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+                    "chainId": 137
+                }
+            ],
+            "name": "Balancer",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xdF2917806E30300537aEB49A7663062F4d1F2b5F"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
+                    "chainId": 137
+                }
+            ],
+            "name": "Band Protocol",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x0BDb051e10c9718d1C29efbad442E88D38958274"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x3Cef98bb43d732E2F285eE605a8158cDE967D219",
+                    "chainId": 137
+                }
+            ],
+            "name": "Basic Attention Token",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x0d16d4528239e9ee52fa531af613AcdB23D88c94"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842",
+                    "chainId": 137
+                }
+            ],
+            "name": "Bancor",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x1E6cF0D433de4FE882A437ABC654F58E1e78548c"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+                    "chainId": 56
+                }
+            ],
+            "name": "Bitcoin Cash",
+            "usdPriceFeed": {
+                "chainId": 56,
+                "contractAddress": "0x43d80f616DAf0b0B42a928EeD32147dC59027D41"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+                    "chainId": 1284
+                },
+                {
+                    "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+                    "chainId": 137
+                }
+            ],
+            "name": "Binance USD",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x833D8Eb16D306ed1FbB5D7A2E019e106B960965A"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+                    "chainId": 56
+                }
+            ],
+            "name": "Pancakeswap",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xEb0adf5C06861d6c07174288ce4D0a8128164003"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
+                    "chainId": 137
+                }
+            ],
+            "name": "Compound",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xdbd020CAeF83eFd542f4De03e3cF0C28A4428bd5"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xf2D8124b8F9267DaD61351c7aD252362880C6638",
+                    "chainId": 137
+                }
+            ],
+            "name": "Cronos",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x00Cb80Cf097D9aA9A3779ad8EE7cF98437eaE050"
+            },
+            "decimals": 8
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+                    "chainId": 137
+                }
+            ],
+            "name": "Curve DAO",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xCd627aA160A6fA45Eb793D19Ef54f5062F20f33f"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+                    "chainId": 1284
+                },
+                {
+                    "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+                    "chainId": 137
+                }
+            ],
+            "name": "DAI",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xAed0c38402a5d19df6E4c03F4E2DceD6e29c1ee9"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+                    "chainId": 56
+                }
+            ],
+            "name": "Dogecoin",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x2465CefD3b488BE410b941b1d4b2767088e2A028"
+            },
+            "decimals": 8
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+                    "chainId": 56
+                }
+            ],
+            "name": "Polkadot",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x1C07AFb8E2B827c5A4739C6d59Ae3A5035f28734"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+                    "chainId": 1
+                }
+            ],
+            "name": "Enjin Coin",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x23905C55dC11D609D5d11Dc604905779545De9a7"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+                    "chainId": 1
+                }
+            ],
+            "name": "Ethereum Name Service",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x5C00128d4d1c2F4f652C267d7bcdD7aC99C16E16"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+                    "chainId": 56
+                }
+            ],
+            "name": "EOS",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x10a43289895eAff840E8d45995BBa89f9115ECEe"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+                    "chainId": 1284
+                }
+            ],
+            "name": "Ethereum",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
+                    "chainId": 56
+                }
+            ],
+            "name": "Ethereum Classic",
+            "usdPriceFeed": {
+                "chainId": 137,
+                "contractAddress": "0xDf3f72Be10d194b58B1BB56f2c4183e661cB2114"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+                    "chainId": 56
+                }
+            ],
+            "name": "Filecoin",
+            "usdPriceFeed": {
+                "chainId": 56,
+                "contractAddress": "0xE5dbFD9003bFf9dF5feB2f4F445Ca00fb121fb83"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+                    "chainId": 1
+                }
+            ],
+            "name": "Fetch.ai",
+            "usdPriceFeed": {
+                "chainId": 56,
+                "contractAddress": "0x657e700c66C48c135c4A29c4292908DbdA7aa280"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xC19281F22A075E0F10351cd5D6Ea9f0AC63d4327",
+                    "chainId": 1284
+                },
+                {
+                    "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0xB85517b87BF64942adf3A0B9E4c71E4Bc5Caa4e5",
+                    "chainId": 137
+                }
+            ],
+            "name": "Fantom",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x2DE7E4a9488488e0058B95854CC2f7955B35dC9b"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+                    "chainId": 137
+                },
+                {
+                    "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+                    "chainId": 1
+                }
+            ],
+            "name": "The Graph",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x86cF33a451dE9dc61a2862FD94FF4ad4Bd65A5d2"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66",
+                    "chainId": 137
+                }
+            ],
+            "name": "IoTeX",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x96c45535d235148Dc3ABA1E48A6E3cFB3510f4E2"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x39fC9e94Caeacb435842FADeDeCB783589F50f5f",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x1e1085eFaA63EDFE74aaD7C05a28EAE4ef917C3F",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c",
+                    "chainId": 137
+                }
+            ],
+            "name": "Kyber Network",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xf8fF43E991A81e6eC886a3D281A2C6cC19aE70Fc"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x0C356B7fD36a5357E5A017EF11887ba100C9AB76",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x5F88AB06e8dfe89DF127B2430Bba4Af600866035",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x87D32F2C0A3D6D091772890C81E321026454a125",
+                    "chainId": 137
+                }
+            ],
+            "name": "Kava",
+            "usdPriceFeed": {
+                "chainId": 56,
+                "contractAddress": "0x12bf0C3f7D5aca9E711930d704dA2774358d9210"
+            },
+            "decimals": 6
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x986854779804799C1d68867F5E03e601E781e41b",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+                    "chainId": 137
+                }
+            ],
+            "name": "Lido DAO",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x4e844125952D32AcdF339BE976c98E22F6F318dB"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x5947bb275c521040051d82396192181b413227a3",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+                    "chainId": 137
+                }
+            ],
+            "name": "Chainlink",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x2c1d072e956AFFC0D435Cb7AC38EF18d24d9127c"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
+                    "chainId": 42170
+                }
+            ],
+            "name": "Loopring",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x160AC928A16C93eD4895C2De6f81ECcE9a7eB7b4"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+                    "chainId": 56
+                }
+            ],
+            "name": "Litecoin",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x6AF09DF7563C363B5763b9102712EbeD3b9e859B"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xF873633DF9D5cDd62BB1f402499CC470a72A02D7",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+                    "chainId": 1285
+                }
+            ],
+            "name": "Moonriver",
+            "usdPriceFeed": {
+                "chainId": 1285,
+                "contractAddress": "0x3f8BFbDc1e79777511c00Ad8591cef888C2113C1"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+                    "chainId": 137
+                }
+            ],
+            "name": "Decentraland",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x56a4857acbcfe3a66965c251628B1c9f1c408C19"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xA56B1b9f4e5A1A1e0868F5Fd4352ce7CdF0C2A4F",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x3405a1bd46b85c5c029483fbecf2f3e611026e45",
+                    "chainId": 1284
+                },
+                {
+                    "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
+                    "chainId": 1285
+                }
+            ],
+            "name": "Polygon (MATIC)",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x7bAC85A8a13A4BcD8abb3eB7d6b4d632c5a57676"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x2e9a6Df78E42a30712c10a9Dc4b1C8656f8F2879",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+                    "chainId": 137
+                }
+            ],
+            "name": "Maker",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xec1D1B3b0443256cc3860e24a46F108e699484Aa"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x72bd80445b0db58ebe3E8dB056529D4C5FAF6F2f",
+                    "chainId": 137
+                }
+            ],
+            "name": "NEAR Protocol",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xC12A6d1D827e23318266Ef16Ba6F397F2F91dA9b"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+                    "chainId": 1
+                }
+            ],
+            "name": "Ocean Protocol",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x9b0FC4bb9981e5333689d69BdBF66351B9861E62"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+                    "chainId": 1
+                }
+            ],
+            "name": "Origin Protocol",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x2c881B6f3f6B5ff6C975813F87A4dad0b241C15b"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xD4814770065F634003A8d8D70B4743E0C3f334ad",
+                    "chainId": 137
+                }
+            ],
+            "name": "Ontology",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xcDa3708C5c2907FCca52BB3f9d3e4c2028b89319"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
+                    "chainId": 1
+                }
+            ],
+            "name": "Reserve Rights",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x759bBC1be8F90eE6457C44abc7d443842a976d02"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x3155BA85D5F96b2d030a4966AF206230e46849cb",
+                    "chainId": 1
+                }
+            ],
+            "name": "THORChain",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x875D60C44cfbC38BaA4Eb2dDB76A767dEB91b97e"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
+                    "chainId": 56
+                }
+            ],
+            "name": "Tron",
+            "usdPriceFeed": {
+                "chainId": 56,
+                "contractAddress": "0xF4C5e535756D11994fCBB12Ba8adD0192D9b88be"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x67b725d7e342d7B611fa85e859Df9697D9378B2e",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+                    "chainId": 137
+                }
+            ],
+            "name": "The Sandbox",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x35E3f7E558C04cE7eEE1629258EcbbA03B36Ec56"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+                    "chainId": 137
+                }
+            ],
+            "name": "Shiba Inu",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x8dD1CD88F43aF196ae478e91b9F5E4Ac69A97C61"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+                    "chainId": 137
+                }
+            ],
+            "name": "Synthetix Network",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xDC3EA94CD0AC27d9A86C180091e7f78C683d3699"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4",
+                    "chainId": 137
+                }
+            ],
+            "name": "Solana",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x4ffC43a60e009B551865A93d232E33Fce9f01507"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+                    "chainId": 137
+                }
+            ],
+            "name": "Sushi",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xCc70F09A6CC17553b2E31954cD36E4A2d89501f7"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
+                    "chainId": 1
+                }
+            ],
+            "name": "Tomochain",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x3d44925a8E9F9DFd90390E58e92Ec16c996A331b"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+                    "chainId": 137
+                }
+            ],
+            "name": "TrueUSD",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xec746eCF986E2927Abd291a2A1716c940100f8Ba"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
                     "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
                     "chainId": 1
+                },
+                {
+                    "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+                    "chainId": 56
+                },
+                {
+                    "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+                    "chainId": 137
                 }
             ],
             "name": "Uniswap",
@@ -17,26 +1281,36 @@
         {
             "deployments": [
                 {
-                    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
-                    "chainId": 1
-                }
-            ],
-            "name": "ChainLink",
-            "usdPriceFeed": {
-                "chainId": 1,
-                "contractAddress": "0x2c1d072e956AFFC0D435Cb7AC38EF18d24d9127c"
-            },
-            "decimals": 18
-        },
-        {
-            "deployments": [
-                {
                     "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
                     "chainId": 1
                 },
                 {
-                    "address" : "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-                    "chainId": 137
+                    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+                    "chainId": 1284
+                },
+                {
+                    "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                    "chainId": 1
                 }
             ],
             "name": "USDC",
@@ -44,8 +1318,433 @@
                 "chainId": 1,
                 "contractAddress": "0x8fFfFfd4AfB6115b954Bd326cbe7B4BA576818f6"
             },
-            "decimals": 6
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0xFFA4D863C96e743A2e1513824EA006B8D0353C57",
+                    "chainId": 137
+                }
+            ],
+            "name": "USDD",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x0ed39A19D2a68b722408d84e4d970827f61E6c0A"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094",
+                    "chainId": 56
+                }
+            ],
+            "name": "Pax Dollar",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x09023c0DA49Aaf8fc3fA3ADF34C6A7016D38D5e3"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x55d398326f99059ff775485246999027b3197955",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+                    "chainId": 1284
+                },
+                {
+                    "address": "0xe936caa7f6d9f5c9e907111fcaf7c351c184cda7",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+                    "chainId": 137
+                }
+            ],
+            "name": "Tether USD",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x3E7d1eAB13ad0104d2750B8863b489D65364e32D"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+                    "chainId": 56
+                }
+            ],
+            "name": "Ripple",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xCed2660c6Dd1Ffd856A5A82C67f3482d88C50b12"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+                    "chainId": 1
+                },
+                {
+                    "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+                    "chainId": 137
+                }
+            ],
+            "name": "Woo Network",
+            "usdPriceFeed": {
+                "chainId": 56,
+                "contractAddress": "0x02Bfe714e78E2Ad1bb1C2beE93eC8dc5423B66d4"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+                    "chainId": 1
+                }
+            ],
+            "name": "Storj",
+            "usdPriceFeed": {
+                "chainId": 137,
+                "contractAddress": "0x0F1d5Bd7be9B30Fc09E110cd6504Bd450e53cb0E"
+            },
+            "decimals": 8
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+                    "chainId": 1
+                }
+            ],
+            "name": "Theta Token",
+            "usdPriceFeed": {
+                "chainId": 137,
+                "contractAddress": "0x38611b09F8f2D520c14eA973765C225Bf57B9Eac"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+                    "chainId": 56
+                }
+            ],
+            "name": "Ziliqa",
+            "usdPriceFeed": {
+                "chainId": 56,
+                "contractAddress": "0x3e3aA4FC329529C8Ab921c810850626021dbA7e6"
+            },
+            "decimals": 12
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x82e3A8F066a6989666b031d916c43672085b1582",
+                    "chainId": 42170
+                },
+                {
+                    "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+                    "chainId": 43114
+                },
+                {
+                    "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+                    "chainId": 56
+                },
+                {
+                    "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+                    "chainId": 4002
+                },
+                {
+                    "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+                    "chainId": 1285
+                },
+                {
+                    "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
+                    "chainId": 137
+                }
+            ],
+            "name": "Yearn Finance",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xA027702dbb89fbd58938e4324ac03B58d812b0E1"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+                    "chainId": 1
+                },
+                {
+                    "address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
+                    "chainId": 43114
+                }
+            ],
+            "name": "0x",
+            "usdPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x2885d15b8Af22648b98B122b22FDF4D2a56c6023"
+            },
+            "decimals": 18
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+                    "chainId": 56
+                }
+            ],
+            "name": "ZCash",
+            "usdPriceFeed": {
+                "chainId": 137,
+                "contractAddress": "0xBC08c639e579a391C4228F20d0C29d0690092DF0"
+            },
+            "decimals": 18
         }
     ],
-    "erc721Tokens": []
+    "erc721Tokens": [
+        {
+            "deployments": [
+                {
+                    "address": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+                    "chainId": 1
+                }
+            ],
+            "name": "Azuki",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xA8B9A447C73191744D5B79BcE864F343455E1150"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x306b1ea3ecdf94aB739F1910bbda052Ed4A9f949",
+                    "chainId": 1
+                }
+            ],
+            "name": "BEANZ Official",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xA97477aB5ab6ED2f6A2B5Cbe59D71e88ad334b90"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+                    "chainId": 1
+                }
+            ],
+            "name": "Bored Ape Yacht Club",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x352f2Bc3039429fC2fe62004a1575aE74001CfcE"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x49cF6f5d44E70224e2E23fDcdd2C053F30aDA28B",
+                    "chainId": 1
+                }
+            ],
+            "name": "CloneX",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x021264d59DAbD26E7506Ee7278407891Bb8CDCCc"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x1A92f7381B9F03921564a437210bB9396471050C",
+                    "chainId": 1
+                }
+            ],
+            "name": "CoolCats",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xF49f8F5b931B0e4B4246E4CcA7cD2083997Aa83d"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB",
+                    "chainId": 1
+                }
+            ],
+            "name": "CryptoPunks",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x01B6710B01cF3dd8Ae64243097d91aFb03728Fdd"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x1CB1A5e65610AEFF2551A50f76a87a7d3fB649C6",
+                    "chainId": 1
+                }
+            ],
+            "name": "Cryptoadz",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xFaA8F6073845DBe5627dAA3208F78A3043F99bcA"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e",
+                    "chainId": 1
+                }
+            ],
+            "name": "Doodles",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x027828052840a43Cc2D0187BcfA6e3D6AcE60336"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x60E4d786628Fea6478F785A6d7e704777c86a7c6",
+                    "chainId": 1
+                }
+            ],
+            "name": "MutantApeYachtClub",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x1823C89715Fe3fB96A24d11c917aCA918894A090"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x23581767a106ae21c074b2276D25e5C3e136a68b",
+                    "chainId": 1
+                }
+            ],
+            "name": "Moonbirds",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x9cd36E0E8D3C27d630D00406ACFC3463154951Af"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+                    "chainId": 1
+                }
+            ],
+            "name": "Otherdeed for Otherside",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x6e3A4376B4C8D3ba49602f8542D9D3C4A87ba901"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xBd3531dA5CF5857e7CfAA92426877b022e612cf8",
+                    "chainId": 1
+                }
+            ],
+            "name": "Pudgy Penguins",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x9f2ba149c2A0Ee76043d83558C4E79E9F3E5731B"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xa3AEe8BcE55BEeA1951EF834b99f3Ac60d1ABeeB",
+                    "chainId": 1
+                }
+            ],
+            "name": "VeeFriends",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0x35bf6767577091E7f04707c0290b3f889e968307"
+            }
+        },
+        {
+            "deployments": [
+                {
+                    "address": "0xe785E82358879F061BC3dcAC6f0444462D4b5330",
+                    "chainId": 1
+                }
+            ],
+            "name": "World of Women",
+            "ethPriceFeed": {
+                "chainId": 1,
+                "contractAddress": "0xDdf0B85C600DAF9e308AFed9F597ACA212354764"
+            }
+        }
+    ]
 }
